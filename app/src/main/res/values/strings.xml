@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RegisterForm</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+
+
+    <string name="username_hint"><font size="12">for ex. Elaheh</font></string>
+    <string name="password_hint"><font size="12">Password that you used while signing</font></string>
+
+
+
+</resources>
